@@ -8,6 +8,8 @@ Using weather station metadata from the Integrated Surface Database (ISD), the a
 
 The project was developed as part of coursework focused on **Linux environments, distributed data processing, and scalable data analytics workflows**.
 
+![PySpark-Weather-Station](pyspark.gif)
+
 ---
 
 ## Features
